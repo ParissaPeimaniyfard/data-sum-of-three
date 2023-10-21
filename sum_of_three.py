@@ -4,4 +4,6 @@ def sum3(first_number, second_number, third_number):
     """
     Takes three numbers and returns the sum of those numbers
     """
-    pass  # YOUR CODE HERE
+    num= [first_number, second_number,third_number]
+    sum1= sum (num)
+    return sum1
